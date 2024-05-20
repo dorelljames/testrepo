@@ -6,7 +6,7 @@
     {
       "type": "document",
       "name": "onboarding",
-      "title": "Onboarding flows",
+      "title": "Onboarding flows 222",
       "fields": [
         { "type": "string", "name": "title" },
         {
@@ -24,7 +24,7 @@
     {
       "type": "document",
       "name": "onboardingStep",
-      "title": "Onboarding steps",
+      "title": "Onboarding steps 222",
       "fields": [
         { "type": "string", "name": "title" },
         {
